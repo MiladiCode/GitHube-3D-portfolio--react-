@@ -1,5 +1,5 @@
 
-<a href="https://www.youtube.com/watch?v=BW2H0es4s58&list=PL67b5wgxuUtAP2ckCBi-ryBaZnRZi2nTj&index=6" target="_blank">
+<a href="https://www.youtube.com/watch?v=vXHDfrFMoog&list=PL67b5wgxuUtAzzyFFMZ8W3w_XV4jJfH-8" target="_blank">
   <img src="./thumbnail.png" alt="Thumbnail"/>
 </a>
 
@@ -25,6 +25,6 @@ Welcome to this beginner-friendly tutorial where you'll learn how to create a fu
 
 ---
 ## Watch the full tutorial on YouTub
-<a href="https://www.youtube.com/watch?v=BW2H0es4s58&list=PL67b5wgxuUtAP2ckCBi-ryBaZnRZi2nTj&index=6">
+<a href="https://www.youtube.com/watch?v=vXHDfrFMoog&list=PL67b5wgxuUtAzzyFFMZ8W3w_XV4jJfH-8">
   <img src="./youtube.png" alt="youtube"/>
 </a>
